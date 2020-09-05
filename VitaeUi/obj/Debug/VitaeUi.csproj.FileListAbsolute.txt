@@ -1,0 +1,33 @@
+c:\users\familia diogo\documents\visual studio 2012\Projects\VitaeUi\VitaeUi\bin\Debug\VitaeUi.exe.config
+c:\users\familia diogo\documents\visual studio 2012\Projects\VitaeUi\VitaeUi\bin\Debug\VitaeUi.exe
+c:\users\familia diogo\documents\visual studio 2012\Projects\VitaeUi\VitaeUi\bin\Debug\VitaeUi.pdb
+c:\users\familia diogo\documents\visual studio 2012\Projects\VitaeUi\VitaeUi\obj\Debug\VitaeUi.Form1.resources
+c:\users\familia diogo\documents\visual studio 2012\Projects\VitaeUi\VitaeUi\obj\Debug\VitaeUi.Properties.Resources.resources
+c:\users\familia diogo\documents\visual studio 2012\Projects\VitaeUi\VitaeUi\obj\Debug\VitaeUi.csproj.GenerateResource.Cache
+c:\users\familia diogo\documents\visual studio 2012\Projects\VitaeUi\VitaeUi\obj\Debug\VitaeUi.exe
+c:\users\familia diogo\documents\visual studio 2012\Projects\VitaeUi\VitaeUi\obj\Debug\VitaeUi.pdb
+c:\users\familia diogo\documents\visual studio 2012\Projects\VitaeUi\VitaeUi\bin\Debug\MaterialSkin.dll
+C:\Users\Familia Diogo\documents\visual studio 2012\Projects\VitaeUi\VitaeUi\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Familia Diogo\documents\visual studio 2012\Projects\VitaeUi\VitaeUi\obj\Debug\VitaeUi.csprojResolveAssemblyReference.cache
+C:\Users\Martin Dala\Documents\VitaeUi\VitaeUi\bin\Debug\VitaeUi.exe.config
+C:\Users\Martin Dala\Documents\VitaeUi\VitaeUi\obj\Debug\VitaeUi.exe
+C:\Users\Martin Dala\Documents\VitaeUi\VitaeUi\obj\Debug\VitaeUi.pdb
+C:\Users\Martin Dala\Documents\VitaeUi\VitaeUi\bin\Debug\VitaeUi.exe
+C:\Users\Martin Dala\Documents\VitaeUi\VitaeUi\bin\Debug\VitaeUi.pdb
+C:\Users\Martin Dala\Documents\VitaeUi\VitaeUi\obj\Debug\VitaeUi.csprojResolveAssemblyReference.cache
+C:\Users\Martin Dala\Documents\VitaeUi\VitaeUi\obj\Debug\VitaeUi.Form1.resources
+C:\Users\Martin Dala\Documents\VitaeUi\VitaeUi\obj\Debug\VitaeUi.Properties.Resources.resources
+C:\Users\Martin Dala\Documents\VitaeUi\VitaeUi\obj\Debug\VitaeUi.csproj.GenerateResource.Cache
+C:\Users\Martin Dala\Documents\VitaeUi\VitaeUi\obj\Debug\RdlCompile.cache
+C:\Users\Martin Dala\Documents\VitaeUi\VitaeUi\obj\Debug\RdlCompile.compiled
+C:\Users\Martin Dala\Documents\VitaeUi\VitaeUi\obj\Debug\VitaeUi.Form2.resources
+C:\Users\Martin Dala\Documents\VitaeUi\VitaeUi\obj\Debug\VitaeUi.Form3.resources
+C:\Users\Martin Dala\source\repos\Em Projectos\VitaeUi\VitaeUi\obj\Debug\VitaeUi.csprojAssemblyReference.cache
+C:\Users\Martin Dala\source\repos\Em Projectos\VitaeUi\VitaeUi\obj\Debug\VitaeUi.Form3.resources
+C:\Users\Martin Dala\source\repos\Em Projectos\VitaeUi\VitaeUi\obj\Debug\VitaeUi.Form1.resources
+C:\Users\Martin Dala\source\repos\Em Projectos\VitaeUi\VitaeUi\obj\Debug\VitaeUi.Form2.resources
+C:\Users\Martin Dala\source\repos\Em Projectos\VitaeUi\VitaeUi\obj\Debug\VitaeUi.Properties.Resources.resources
+C:\Users\Martin Dala\source\repos\Em Projectos\VitaeUi\VitaeUi\obj\Debug\VitaeUi.csproj.GenerateResource.cache
+C:\Users\Martin Dala\source\repos\Em Projectos\VitaeUi\VitaeUi\obj\Debug\VitaeUi.csproj.CoreCompileInputs.cache
+C:\Users\Martin Dala\source\repos\Em Projectos\VitaeUi\VitaeUi\obj\Debug\VitaeUi.exe
+C:\Users\Martin Dala\source\repos\Em Projectos\VitaeUi\VitaeUi\obj\Debug\VitaeUi.pdb
